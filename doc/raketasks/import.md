@@ -2,9 +2,9 @@
 
 ## Notes
 
-- The owner of the project will be the first admin
+- The owner of the project will be the first active admin
 - The groups will be created as needed
-- The owner of the group will be the first admin
+- The owner of the group will be the first active admin
 - Existing projects will be skipped
 
 ## How to use
